@@ -19,3 +19,21 @@ A simple Flutter app UI simulating a fundraising intern portal using mock data.
 flutter pub get
 flutter run
 
+## 📸 Screenshots
+
+### Login Page
+![Login Page](assets/screenshots/login.png)
+
+### Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### Leaderboard
+![Leaderboard](assets/screenshots/leaderboard.png)
+
+### Announcements
+![Announcements](assets/screenshots/announcements.png)
+
+### Settings
+![Settings](assets/screenshots/settings.png)
+
+
