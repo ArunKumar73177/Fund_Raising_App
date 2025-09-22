@@ -37,6 +37,3 @@ flutter run
 ### Settings
 ![authsett](https://github.com/user-attachments/assets/ae310454-1c4f-497a-9d12-94911d8774c4)
 
-
-
-
